@@ -1,0 +1,17 @@
+<Vux>
+	<append xpath="//block[@name='guppyFuturePortal2']">
+		<property name="DescriptionKey" value="guppyFuturePortal2Desc"/>
+	</append>
+	<append xpath="//block[@name='guppyFuturePortal3']">
+		<property name="DescriptionKey" value="guppyFuturePortal3Desc"/>
+	</append>
+	<append xpath="//block[@name='guppyFuturePortal4']">
+		<property name="DescriptionKey" value="guppyFuturePortal4Desc"/>
+	</append>
+	<append xpath="//block[@name='guppyFuturePortal5']">
+		<property name="DescriptionKey" value="guppyFuturePortal5Desc"/>
+	</append>
+	<append xpath="//block[@name='guppyFuturePortal6']">
+		<property name="DescriptionKey" value="guppyFuturePortal6Desc"/>
+	</append>
+</Vux>

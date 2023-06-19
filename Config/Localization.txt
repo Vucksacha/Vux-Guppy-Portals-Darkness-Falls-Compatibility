@@ -1,0 +1,12 @@
+Key,english
+guppyFuturePortal2,Future Portal 2
+guppyFuturePortal2Desc,"A portal. Unlocked by Future Tech 3"
+guppyFuturePortal3,Future Portal 3
+guppyFuturePortal3Desc,"A portal. Unlocked by Future Tech 3"
+guppyFuturePortal4,Future Portal 4
+guppyFuturePortal4Desc,"A portal. Unlocked by Future Tech 3"
+guppyFuturePortal5,Future Portal 5
+guppyFuturePortal5Desc,"A portal. Unlocked by Future Tech 3"
+guppyFuturePortal6,Future Portal 6
+guppyFuturePortal6Desc,"A portal. Unlocked by Future Tech 3"
+perkLaserWeaponsRank3Desc,"Crafting Tier: 31 for future technology. Unlocks recipes for Nanites, all 2 tech boost perks and all 2 bio boost perks. Unlocks the Pulse Grenade, Pulse Rocket, Pulse Mine, Laser Pistol, Laser Sniper Rifle, Arc Gun and appropriate gun parts recipes.\nUnlocks Pulse Arrows and Pulse Bolts for the Compound Bow and Titanium Crossbow.\nUnlocks portals\n[DECEA3]Level Requirements:[-] Player Level 110"

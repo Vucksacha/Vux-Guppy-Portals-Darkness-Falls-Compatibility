@@ -1,0 +1,7 @@
+<Vux>
+	<append xpath="/progression/perks/perk[@name='perkCraftFutureTech']/effect_group/passive_effect[@level='3,5']/@tags">,guppyFuturePortal2</append>
+	<append xpath="/progression/perks/perk[@name='perkCraftFutureTech']/effect_group/passive_effect[@level='3,5']/@tags">,guppyFuturePortal3</append>
+	<append xpath="/progression/perks/perk[@name='perkCraftFutureTech']/effect_group/passive_effect[@level='3,5']/@tags">,guppyFuturePortal4</append>
+	<append xpath="/progression/perks/perk[@name='perkCraftFutureTech']/effect_group/passive_effect[@level='3,5']/@tags">,guppyFuturePortal5</append>
+	<append xpath="/progression/perks/perk[@name='perkCraftFutureTech']/effect_group/passive_effect[@level='3,5']/@tags">,guppyFuturePortal6</append>
+</Vux>

@@ -1,0 +1,40 @@
+<Vux>
+	<!-- Set it to laser workbench -->
+	<set xpath="//recipe[@name='guppyFuturePortal2']/@craft_area">ScifiBench</set>
+	<set xpath="//recipe[@name='guppyFuturePortal3']/@craft_area">ScifiBench</set>
+	<set xpath="//recipe[@name='guppyFuturePortal4']/@craft_area">ScifiBench</set>
+	<set xpath="//recipe[@name='guppyFuturePortal5']/@craft_area">ScifiBench</set>
+	<set xpath="//recipe[@name='guppyFuturePortal6']/@craft_area">ScifiBench</set>
+	<set xpath="//recipe[@name='guppyFuturePortal6']/@craft_area">ScifiBench</set>
+	<set xpath="//recipe[@name='guppyFuturePortal2']/@craft_tool">DFScifiAIOT</set>
+	<set xpath="//recipe[@name='guppyFuturePortal3']/@craft_tool">DFScifiAIOT</set>
+	<set xpath="//recipe[@name='guppyFuturePortal4']/@craft_tool">DFScifiAIOT</set>
+	<set xpath="//recipe[@name='guppyFuturePortal5']/@craft_tool">DFScifiAIOT</set>
+	<set xpath="//recipe[@name='guppyFuturePortal6']/@craft_tool">DFScifiAIOT</set>
+
+	<append xpath="//recipe[@name='guppyFuturePortal2']">
+		<ingredient name="DFresourceNanites" count="10"/>
+		<ingredient name="DFPortalPowerSource" count="1"/>
+	</append>
+
+	<append xpath="//recipe[@name='guppyFuturePortal3']">
+		<ingredient name="DFresourceNanites" count="10"/>
+		<ingredient name="DFPortalPowerSource" count="1"/>
+	</append>
+
+	<append xpath="//recipe[@name='guppyFuturePortal4']">
+		<ingredient name="DFresourceNanites" count="10"/>
+		<ingredient name="DFPortalPowerSource" count="1"/>
+	</append>
+
+	<append xpath="//recipe[@name='guppyFuturePortal5']">
+		<ingredient name="DFresourceNanites" count="10"/>
+		<ingredient name="DFPortalPowerSource" count="1"/>
+	</append>
+
+	<append xpath="//recipe[@name='guppyFuturePortal6']">
+		<ingredient name="DFresourceNanites" count="10"/>
+		<ingredient name="DFPortalPowerSource" count="1"/>
+	</append>
+	
+</Vux>
